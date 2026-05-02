@@ -20,16 +20,11 @@ function About() {
             <div className="blob w-72 h-72 bg-gradient-to-br from-[#00F5C4]/20 to-[#7B61FF]/20 absolute inset-0 scale-110" />
             <div className="relative w-72 h-72 rounded-3xl overflow-hidden border-2 border-[#00F5C4]/20 bg-gradient-to-br from-[#13162B] to-[#1a1040] flex items-center justify-center shadow-2xl">
               {/* Replace the div below with an <img> tag for a real photo */}
-              <div className="text-center select-none">
   <img
     src="/profile1.jpeg"
     alt="Shrinivas R J"
     className="w-full h-full object-cover rounded-2xl"
   />
-</div>
-            </div>
-            <div className="absolute -bottom-4 -right-4 bg-[#00F5C4] text-[#0D0F17] rounded-2xl px-5 py-2.5 font-display font-bold text-sm shadow-lg shadow-[#00F5C4]/30">
-              4+ Projects 🚀
             </div>
           </div>
         </div>
