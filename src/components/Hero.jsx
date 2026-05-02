@@ -72,7 +72,8 @@ function Hero() {
         {/* CTAs */}
         <div className="flex flex-wrap gap-4 justify-center mb-16">
           <a
-            href="/resume.pdf"
+            href="/Shrinivas_resume.pdf"
+            download="Shrinivas_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary font-body font-semibold px-8 py-3.5 rounded-full text-[#0D0F17] text-sm tracking-wide"
