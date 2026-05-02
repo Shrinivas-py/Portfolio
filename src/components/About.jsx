@@ -21,7 +21,7 @@ function About() {
             <div className="relative w-72 h-72 rounded-3xl overflow-hidden border-2 border-[#00F5C4]/20 bg-gradient-to-br from-[#13162B] to-[#1a1040] flex items-center justify-center shadow-2xl">
               {/* Replace the div below with an <img> tag for a real photo */}
   <img
-    src="/profile1.jpeg"
+    src="/profile2.jpeg"
     alt="Shrinivas R J"
     className="w-full h-full object-cover rounded-2xl"
   />
