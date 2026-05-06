@@ -63,7 +63,7 @@ function Hero() {
           <span className="gradient-text">R J</span>
         </h1>
         <p className="font-display font-semibold text-xl md:text-2xl text-gray-500 mb-5 tracking-[0.2em] uppercase">
-          Full Stack Developer | AI Automation | StartUps | SaaP | Finance
+          Full Stack Web | AI Automation | StartUps | SaaP
         </p>
         <p className="font-body text-gray-400 text-lg max-w-xl mx-auto mb-12 leading-relaxed">
           Building full stack web applications with modern technologies and AI integration. Passionate about creating seamless user experiences and efficient backend systems. Let's connect and create something amazing together!
